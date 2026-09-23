@@ -1,8 +1,8 @@
 # Actividad Práctica 5: Comunicación Asertiva
-**Integrantes: **
+**Integrantes:**
 1. 202505830 Naomi Rocio Axpuac Velásquez
-2. 
-3. 
+2. 202506643 Owen Stev Trujillo Cruz
+3. 202500132 Carlos Manuel García Escobar
 
 ## Desarrollo de la actividad
 
@@ -48,5 +48,29 @@ Esta técnica permite estructurar el mensaje intercalando la crítica constructi
 * **Control emocional:** Si el compañero reacciona a la defensiva, no se responderá con enojo; se redirigirá la conversación hacia el objetivo en común (entregar un buen trabajo en equipo).
 
 ## 4. Evidencia de Trabajo Colaborativo
+## Foto de el grupo
+
+![Foto del grupo en Meet](ImagenGrupal.png)
+
+## 5. Gestión y Uso de Herramientas Colaborativas
+
+Para el desarrollo estructurado y transparente de esta actividad práctica, el equipo utilizó herramientas de gestión colaborativa y control de versiones, distribuyendo las responsabilidades de la siguiente manera:
+
+### A. Organización del trabajo y asignación de tareas
+Se gestionó el flujo de trabajo dentro del repositorio mediante la creación y asignación de *Issues* / tareas para asegurar la participación equitativa de los integrantes:
+
+| Tarea / Issue | Integrante Asignado | Estado | Descripción del Aporte |
+| :--- | :--- | :---: | :--- |
+| **#1** Análisis de Escenario y Feedback (Sándwich) | Owen Stev Trujillo Cruz | Completado | Redacción del análisis del problema y desarrollo de la técnica del sándwich. |
+| **#2** Negociación de Límites y Manejo del "No" | Naomi Rocío Axpuac Velásquez | Completado | Elaboración de la estrategia de negociación y límites profesionales. |
+| **#3** Conclusiones y Estructuración del Markdown | Carlos Manuel García Escobar | Completado | Redacción de conclusiones de aprendizaje y consolidación final del archivo .md |
+
+---
+
+## 6. Conclusión
+
+La aplicación práctica de las técnicas de comunicación asertiva demuestra que la gestión de inconvenientes en el trabajo colaborativo debe enfocar la crítica hacia las soluciones y no hacia las personas. A través de la implementación de la *Técnica del Sándwich* y el establecimiento claro de límites profesionales, es posible corregir desviaciones en entregas incompletas manteniendo la motivación del equipo, asegurando el cumplimiento de las metas académicas o laborales sin comprometer el clima de respeto y profesionalismo.
+
+---
  
 
